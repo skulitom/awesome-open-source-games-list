@@ -4,7 +4,7 @@
   "release_date": "2025-08-13",
   "counts": {
     "games": 275,
-    "reimplementations": 49,
+    "reimplementations": 50,
     "engines": 22,
     "tools": 15
   },
@@ -1481,6 +1481,11 @@
         "name": "Julius",
         "url": "https://github.com/bvschaik/julius",
         "description": "Caesar III reimplementation."
+      },
+      {
+        "name": "Looking Glass",
+        "url": "https://github.com/skulitom/LookingGlass",
+        "description": "Experimental Rust recreation of American McGee's Alice for Windows; requires compatible English 2011 game data."
       },
       {
         "name": "NBlood",

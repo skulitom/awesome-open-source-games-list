@@ -35,7 +35,7 @@ This repository is an **index, not a mirror**. The projects listed here remain t
 | Area | Approx. entries |
 | --- | ---: |
 | 🎮 Open-source games | 275 unique |
-| 🕹️ Classic reimplementations / source ports | 49 unique |
+| 🕹️ Classic reimplementations / source ports | 50 unique |
 | 🧩 Engines & frameworks | 22 unique |
 | 🛠️ Tools & libraries | 15 unique |
 | 📚 Learning resources | 10+ |
@@ -453,6 +453,7 @@ These projects are especially useful for studying reverse engineering, compatibi
 - **[OpenLara](https://github.com/XProger/OpenLara)** — Tomb Raider engine recreation.
 - **[OpenRW](https://github.com/rwengine/openrw)** — Grand Theft Auto III engine reimplementation.
 - **[Julius](https://github.com/bvschaik/julius)** — Caesar III reimplementation.
+- **[Looking Glass](https://github.com/skulitom/LookingGlass)** — Experimental Rust recreation of American McGee's Alice for Windows; requires compatible English 2011 game data.
 - **[Akhenaten](https://github.com/dalerank/Akhenaten)** — Pharaoh/Cleopatra-inspired open engine/game project.
 - **[Zelda3](https://github.com/snesrev/zelda3)** — Reverse-engineered Zelda: A Link to the Past codebase.
 - **[Zelda: Twilight Princess decompilation](https://github.com/zeldaret/tp)** — Human-readable decompilation project.
